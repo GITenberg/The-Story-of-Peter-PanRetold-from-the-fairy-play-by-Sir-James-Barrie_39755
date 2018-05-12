@@ -1,0 +1,50 @@
+_repo: The-Story-of-Peter-PanRetold-from-the-fairy-play-by-Sir-James-Barrie_39755
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Woodward, Alice B.
+    alias: Woodward, Alice Bolingbroke
+    birthdate: 1862
+    gutenberg_agent_id: '40081'
+    url: http://www.gutenberg.org/2009/agents/40081
+covers:
+- cover_type: archival
+  image_path: 39755-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Barrie, J. M. (James Matthew)
+    aliases:
+    - Barrie, James Matthew
+    - Barrie, J.M.
+    birthdate: 1860
+    deathdate: 1937
+    gutenberg_agent_id: '10'
+    url: http://www.gutenberg.org/2009/agents/10
+    wikipedia: http://en.wikipedia.org/wiki/J._M._Barrie
+  - agent_name: O'Connor, Daniel
+    aliases:
+    - O'Connor, D. (Daniel)
+    - O'Connor, Daniel Stephen
+    birthdate: 1880
+    deathdate: 1951
+    gutenberg_agent_id: '40203'
+    url: http://www.gutenberg.org/2009/agents/40203
+description: ''
+gutenberg_issued: '2012-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39755'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mermaids -- Juvenile fiction'
+- !lcsh 'Fairy tales'
+- !lcsh 'Pirates -- Juvenile fiction'
+- !lcsh 'Children -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcc 'PZ'
+- !lcsh 'Fairies -- Juvenile fiction'
+title: The Story of Peter Pan, Retold from the fairy play by Sir James Barrie
+url: http://www.gutenberg.org/ebooks/39755
