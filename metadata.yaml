@@ -30,6 +30,8 @@ creator:
     gutenberg_agent_id: '40203'
     url: http://www.gutenberg.org/2009/agents/40203
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39755#The-Story-of-Peter-PanRetold-from-the-fairy-play-by-Sir-James-Barrie
 gutenberg_issued: '2012-05-21'
 gutenberg_type: Text
 identifiers:
